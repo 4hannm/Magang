@@ -1,0 +1,19 @@
+.welcome-message{
+  border: 5px solid rgb(184, 154, 237);
+  margin:5px;
+  padding: 15px;
+  font-size: 1.5em;
+  background-color: rgb(66, 54, 7);
+  border-radius: 10px;
+  color: aliceblue;
+}
+
+.login-message{
+  border: 5px solid rgb(11, 11, 11);
+  margin:5px;
+  padding: 15px;
+  font-size: 1.5em;
+  background-color: rgb(226, 43, 67);
+  border-radius: 10px;
+  color: aliceblue;
+}
